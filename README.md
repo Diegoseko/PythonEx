@@ -1,0 +1,2 @@
+# PythonEx
+Alguns exercícios feitos
